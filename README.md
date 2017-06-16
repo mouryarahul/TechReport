@@ -1,2 +1,2 @@
 # TechReport
-It contains Technical report on convergence proof of adaptive distributed Douglas-Rachford splitting algorithm.
+It contains technical report "A constant step stochastic Douglas Rachford algorithm".
